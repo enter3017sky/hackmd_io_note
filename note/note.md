@@ -1,6 +1,15 @@
-# Note
+# React Native Note
 
-## 批量安裝 apk
+## 目錄
+
+### 批量安裝 apk
+
+
+
+
+---
+
+### 批量安裝 apk
 
 - 目的：節省安裝(多個) APK 到設備上的時間。
 
@@ -83,3 +92,4 @@
 - 執行結果
 
     ![](https://i.imgur.com/CwB1riE.png)
+
