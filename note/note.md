@@ -2,12 +2,26 @@
 
 ## 目錄
 
-### 批量安裝 apk
 
+- ### [批量安裝 apk](#批量安裝-apk)
 
+<!-- [Headers](#headers)  
+[Emphasis](#emphasis)  
+[Lists](#lists)  
+[Links](#links)  
+[Images](#images)  
+[Code and Syntax Highlighting](#code)  
+[Tables](#tables)  
+[Blockquotes](#blockquotes)  
+[Inline HTML](#html)  
+[Horizontal Rule](#hr)  
+[Line Breaks](#lines)  
+[Youtube videos](#videos)  
+ -->
 
 
 ---
+<a name="批量安裝 apk"/>
 
 ### 批量安裝 apk
 
